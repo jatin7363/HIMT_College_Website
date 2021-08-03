@@ -12,7 +12,7 @@
     <center>
       <b>
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSfgyNAR0OljF-FbF80cg9MmtRKMXg19OB8zux-zx0jV415nLQ/viewform">
-          <font color='blue' size="4.5">Online Registration 2021</font>
+          <font color='blue' size="4.5">Online Registration 2021-2022</font>
         </a>
       </b>
     </center>
