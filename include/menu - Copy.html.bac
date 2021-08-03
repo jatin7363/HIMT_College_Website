@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+<title>Hindu Institute of Management & Technology, Rohtak</title>
+<meta charset="iso-8859-1">
+<link rel="stylesheet" href="styles/layout.css" type="text/css">
+<link rel="stylesheet" href="../styles/menu.css" type="text/css">
+
+<!--[if lt IE 9]><script src="scripts/html5shiv.js"></script><![endif]-->
+</head>
+<body>
+<div class="wrapper">
+<div class=" row1">
+  <header id="header" class="clear">
+    <div id="hgroup">
+      <a href="#"><img src="images/logo1.png" height=100 width=860></a>
+      
+    </div>
+
+  </header>
+<nav>
+<ul class="menu">
+ 
+    <li><a href="../index.php">Home</a></li>
+    <li><a href="#">About Us</a>
+	    <ul>
+            <li><a href="../about-college.php">About HIMT</a></li>
+            <li><a href="../president_message.php">President's Message</a></li>
+            <li><a href="../director_message.php">Director's Message</a></li>
+        </ul>
+</li>
+    <li><a href="#">Courses</a>
+ 
+        <ul>
+            <li><a href="#" class="documents">MBA</a></li>
+            <li><a href="#" class="messages">MCA</a></li>
+            <li><a href="#" class="signout">BCA</a></li>
+        </ul>
+ 
+    </li>
+    <li><a href="#">Admissions</a>
+    <ul>
+            <li><a href="#" class="documents">Eligibility Criteria</a></li>
+            <li><a href="#" class="messages">Brochure Download</a></li>
+            <li><a href="#" class="signout">Admission Form</a></li>
+        </ul>
+       </li>
+    <li><a href="#">Facilities</a></li>
+    <li><a href="#">Contact Us</a></li>
+ 
+</ul>
+</nav>
+ </div>
