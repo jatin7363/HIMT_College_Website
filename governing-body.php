@@ -6,31 +6,29 @@
     <!-- content body -->
     <div id="content" class="msg">
       <!-- main content -->
-      
-          
-                <Center> <h1> Governing Body</h1><br> <img src="images/mgt-pic.jpg" width="820" class="dp"></Center>
+			<Center> <h1>Governing Body</h1><br> <img src="images/mgt-pic1.jpg" width="820" class="dp"></Center>
         <p>The principle role of Governing body is to set broad guidelines for the institute; to take review of its operations to raise the necessary funds for the operation and maintenance of the Institute. The guidelines of the governing body help the Institute to achieve the goal of high standards in education. Board members also try to establish the link between the Institute and the business world, as the representatives of the business world.</p>
         <p>Members of Governing body of HIMT, Rohtak:</p>
        <table style="padding-left:30px">
 	<tbody>
 		<tr>
 			<td>1</td>
-			<td>Sh. Rajesh Kumar Sehgal</td>
+			<td>Sh. Sudarshan Kumar Dhingra</td>
 			<td>President</td>
 		</tr>
 		<tr>
 			<td>2</td>
-			<td>Sh. Pardeep Kumar Sapra</td>
+			<td>Sh Ashwani Khurana</td>
 			<td>Vice President</td>
 		</tr>
 		<tr>
 			<td>3</td>
-			<td>Sh. Sudershan Kumar Dhingra</td>
+			<td>Sh. Jitender Mehta</td>
 			<td>General Secretary</td>
 		</tr>
 		<tr>
 			<td>4</td>
-			<td>Sh. Ajay Nijhawan</td>
+			<td>Sh. Sunil Kumar Ahuja</td>
 			<td>Treasurer</td>
 		</tr>
 		<tr>
@@ -40,32 +38,57 @@
 		</tr>
 		<tr>
 			<td>6</td>
-			<td>Sh. Shyam Kapoor</td>
+			<td>Sh Dinesh Dua</td>
 			<td>Member</td>
 		</tr>
 		<tr>
 			<td>7</td>
-			<td>Sh. Harish Wadhwa</td>
+			<td>Sh. Munish Kumar Grover</td>
 			<td>Member</td>
 		</tr>
 		<tr>
 			<td>8</td>
-			<td>Sh. Gulshan Dhall</td>
+			<td>Sh. Subhash Chander Ahuja</td>
 			<td>Member</td>
 		</tr>
 		<tr>
 			<td>9</td>
-			<td>Sh. Dinesh Dua</td>
+			<td>Sh. Rajesh Kumar Sehgal</td>
 			<td>Member</td>
 		</tr>
 		<tr>
 			<td>10</td>
-			<td>Sh. Sanjay Ahuja</td>
+			<td>Sh. Atam Parkash Ahuja</td>
 			<td>Member</td>
 		</tr>
 		<tr>
 			<td>11</td>
-			<td>Sh. Rajesh Katyal</td>
+			<td>Sh. Pawan Ahuja</td>
+			<td>Member</td>
+		</tr>
+		<tr>
+			<td>12</td>
+			<td>Sh. Ravinder Gugnani</td>
+			<td>Member</td>
+		</tr>
+		<tr>
+			<td>13</td>
+			<td>Sh. Anil Bhatia</td>
+			<td>Member</td>
+		</tr>
+		<tr>
+			<td>14</td>
+			<td>Mrs. Isha Vij</td>
+			<td>Member</td>
+		</tr>
+		<tr>
+			<td>15</td>
+			<td>Sh. Viney Chugh</td>
+			<td>Member</td>
+		</tr>
+		<tr>
+			<td>16</td>
+			<td>Sh. Pourush Chawla</td>
 			<td>Member</td>
 		</tr>
 	</tbody>

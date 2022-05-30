@@ -9,7 +9,7 @@
 			<Center>
 				<h1> Faculty & Staff</h1>
 			</Center><br>
-			<img src="..\images\facult.jpg" height="350" width="820" class="dp">
+			<img src="./images/faculty1.jpg" height="350" width="820" class="dp">
 			<p>HIMT faculty is a judicious mix of senior and young academicians. The senior members are known for their outstanding academic background and teaching experience . The young faculty is highly talented with gold medalists and first position holders in their respective fields of study in the University. The whole team is vibrant and committed to the objective of providing the best education in Management and Computer Science.</p>
 			<p>
 				Application based learning: Instead of theory based learning, our faculty members encourage application based learning whereby the theory is integrated with practice by well defined case studies as well as real life examples. Thus industry visits as well as tours are a regular feature of our curriculum and form a part of internal assessment.
@@ -39,17 +39,14 @@
 							</b></td>
 					</tr>
 					<tr>
-						<td>Mrs. Monika Anand</td>
+						<td>Dr. Dolly Dhall</td>
 						<td>HOD & Assistant Professor</td>
 					</tr>
 					<tr>
-						<td>Dr. (Mrs.) Pooja Nagpal</td>
+						<td>Dr. Pooja Nagpal</td>
 						<td>Assistant Professor</td>
 					</tr>
-					<tr>
-						<td>Mr. Vikas Vij</td>
-						<td>TPO & Assistant Professor</td>
-					</tr>
+
 					<tr>
 						<td>Ms. Meenal Sachdeva</td>
 						<td>Assistant Professor</td>
@@ -58,28 +55,32 @@
 						<td>Assistant Professor</td>
 					</tr>
 					<tr>
+						<td>Mrs. jyoti jain</td>
+						<td>Assistant Professor</td>
+					</tr>
+					<tr>
 						<td colspan="2"><b>
 								<center>MBA Faculty</center>
 							</b></td>
 					</tr>
 					<tr>
-						<td>Dr. (Mrs. ) Ashumani Bhatia</td>
+						<td>Dr. Ashumani Bhatia</td>
 						<td>HOD & Associate Professor</td>
 					</tr>
 					<tr>
-						<td>Mrs. Aarti Dhall</td>
+						<td>Dr. Aarti Dhall</td>
 						<td>TPO & Assistant Professor</td>
 					</tr>
 					<tr>
-						<td>Mrs. Seema Malik</td>
+						<td>Mr. Vikas Vij</td>
+						<td>TPO & Assistant Professor</td>
+					</tr>
+					<tr>
+						<td>Dr. Jyoti Uppal</td>
 						<td>Assistant Professor</td>
 					</tr>
 					<tr>
 						<td>Mrs. Shilpa Taneja</td>
-						<td>Assistant Professor</td>
-					</tr>
-					<tr>
-						<td>Dr. (Mrs.) Jyoti Uppal</td>
 						<td>Assistant Professor</td>
 					</tr>
 				</tbody>
