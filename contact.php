@@ -11,7 +11,7 @@
   <div class="add">
       <address>
         <b>Hindu Institute of Management & Technology</b><br>
-        Near Khusbhoo Garden<br>
+        Adjacent to Sh. L. N. Hindu College<br>
         Bhiwani Chungi<br>
         Rohtak,<br>
         Haryana<br>

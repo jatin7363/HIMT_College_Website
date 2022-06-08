@@ -40,7 +40,7 @@
 					</tr>
 					<tr>
 						<td>Dr. Dolly Dhall</td>
-						<td>HOD & Assistant Professor</td>
+						<td>HOD & Associate Professor</td>
 					</tr>
 					<tr>
 						<td>Dr. Pooja Nagpal</td>
