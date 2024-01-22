@@ -1,9 +1,9 @@
-name: Greetings
+# name: Greetings
 
 on: [push]
 
 jobs:
-  greeting:
+  MyDefault:
     runs-on: ubuntu-latest
     permissions:
       issues: write
