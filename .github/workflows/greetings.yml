@@ -3,7 +3,7 @@ name: MyDefault
 on: [push]
 
 jobs:
-  'ABC':
+  build:
     runs-on: ubuntu-latest
     permissions:
       issues: write
