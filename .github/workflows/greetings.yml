@@ -1,14 +1,15 @@
-# name: Greetings
+name: MyDefault
 
 on: [push]
 
 jobs:
-  MyDefault:
+  'ABC':
     runs-on: ubuntu-latest
     permissions:
       issues: write
       pull-requests: write
     steps:
+    - uses: actions/checkout@v2
     - name: Set commit status
       run: echo "::set-commit-status name='Testss' target_url='https://ci.example.com/tests' status='success' description='All tests passed'"
     
